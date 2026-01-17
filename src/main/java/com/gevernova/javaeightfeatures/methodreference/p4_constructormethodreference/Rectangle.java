@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.methodreference.constructormethodreference;
+package com.gevernova.javaeightfeatures.methodreference.p4_constructormethodreference;
 
 public class Rectangle implements Shape{
     private double height;

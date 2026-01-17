@@ -1,6 +1,5 @@
-package com.gevernova.javaeightfeatures.methodreference.constructormethodreference_stream;
+package com.gevernova.javaeightfeatures.methodreference.p8_constructormethodreference_stream;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;

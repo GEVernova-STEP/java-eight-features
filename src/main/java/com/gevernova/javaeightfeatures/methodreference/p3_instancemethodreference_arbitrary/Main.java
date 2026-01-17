@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.methodreference.instancemethodreference_arbitrary;
+package com.gevernova.javaeightfeatures.methodreference.p3_instancemethodreference_arbitrary;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.methodreference.methodreference_predicate;
+package com.gevernova.javaeightfeatures.methodreference.p6_methodreference_predicate;
 
 import java.util.ArrayList;
 import java.util.List;

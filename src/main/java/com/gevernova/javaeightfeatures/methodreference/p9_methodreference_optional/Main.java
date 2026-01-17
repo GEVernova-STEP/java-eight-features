@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.methodreference.methodreference_optional;
+package com.gevernova.javaeightfeatures.methodreference.p9_methodreference_optional;
 
 import java.util.Optional;
 import java.util.Scanner;
