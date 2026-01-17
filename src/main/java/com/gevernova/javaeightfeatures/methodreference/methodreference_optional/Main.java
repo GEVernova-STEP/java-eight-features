@@ -1,7 +1,5 @@
-package com.gevernova.javaeightfeatures.methodreference.constructormethodreference_optional;
+package com.gevernova.javaeightfeatures.methodreference.methodreference_optional;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Optional;
 import java.util.Scanner;
 
