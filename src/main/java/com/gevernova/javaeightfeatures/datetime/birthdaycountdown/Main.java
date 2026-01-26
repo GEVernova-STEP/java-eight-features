@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.datetime.p10_birthdaycountdown;
+package com.gevernova.javaeightfeatures.datetime.birthdaycountdown;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;

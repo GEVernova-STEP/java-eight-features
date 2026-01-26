@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.datetime.p7_zoneddatetime;
+package com.gevernova.javaeightfeatures.datetime.zoneddatetimeconversion;
 
 import java.time.LocalDateTime;
 import java.time.ZoneId;

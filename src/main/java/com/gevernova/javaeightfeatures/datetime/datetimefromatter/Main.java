@@ -1,6 +1,5 @@
-package com.gevernova.javaeightfeatures.datetime.p2_datetimefromatter;
+package com.gevernova.javaeightfeatures.datetime.datetimefromatter;
 
-import java.time.DateTimeException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;

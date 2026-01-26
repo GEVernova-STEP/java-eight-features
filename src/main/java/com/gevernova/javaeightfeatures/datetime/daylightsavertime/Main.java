@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.datetime.p9_daylightsavertime;
+package com.gevernova.javaeightfeatures.datetime.daylightsavertime;
 
 import java.time.ZoneId;
 import java.time.ZonedDateTime;

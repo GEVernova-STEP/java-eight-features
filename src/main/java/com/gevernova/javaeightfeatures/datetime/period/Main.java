@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.datetime.p1_period;
+package com.gevernova.javaeightfeatures.datetime.period;
 
 import java.time.LocalDate;
 import java.time.Period;
