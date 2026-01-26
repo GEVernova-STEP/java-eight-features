@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.problemstatements.p2_productsalesanalysis;
+package com.gevernova.javaeightfeatures.problemstatements.productsalesanalysis;
 
 public class Sale {
     private int productId;

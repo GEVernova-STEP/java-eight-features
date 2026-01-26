@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.problemstatements.p1_employeedataprocessing;
+package com.gevernova.javaeightfeatures.problemstatements.employeedataprocessing;
 
 import java.util.*;
 import java.util.stream.Collectors;

@@ -1,7 +1,6 @@
-package com.gevernova.javaeightfeatures.problemstatements.p2_productsalesanalysis;
+package com.gevernova.javaeightfeatures.problemstatements.productsalesanalysis;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {

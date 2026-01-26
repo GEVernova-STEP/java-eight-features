@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.problemstatements.p6_frauddetection;
+package com.gevernova.javaeightfeatures.problemstatements.frauddetection;
 
 import java.time.LocalDate;
 import java.util.*;

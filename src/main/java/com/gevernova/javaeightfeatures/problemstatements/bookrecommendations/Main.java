@@ -1,7 +1,6 @@
-package com.gevernova.javaeightfeatures.problemstatements.p3_bookrecommendations;
+package com.gevernova.javaeightfeatures.problemstatements.bookrecommendations;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class Main {
 

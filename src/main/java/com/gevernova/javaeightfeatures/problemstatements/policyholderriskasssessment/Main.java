@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.problemstatements.p5_policyholderriskasssessment;
+package com.gevernova.javaeightfeatures.problemstatements.policyholderriskasssessment;
 
 import java.util.*;
 import java.util.stream.Collectors;
