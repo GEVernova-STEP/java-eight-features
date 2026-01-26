@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.problemstatements.p3_bookrecommendations;
+package com.gevernova.javaeightfeatures.problemstatements.bookrecommendations;
 
 public class Book {
     private String title;

@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.problemstatements.p4_claimanalysis;
+package com.gevernova.javaeightfeatures.problemstatements.claimanalysis;
 
 import java.time.LocalDate;
 

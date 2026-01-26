@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.problemstatements.p1_employeedataprocessing;
+package com.gevernova.javaeightfeatures.problemstatements.employeedataprocessing;
 
 public class Employee {
     private Integer id;
