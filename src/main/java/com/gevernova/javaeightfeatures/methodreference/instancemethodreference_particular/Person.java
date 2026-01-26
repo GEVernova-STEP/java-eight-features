@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.methodreference.p2_instancemethodreference_particular;
+package com.gevernova.javaeightfeatures.methodreference.instancemethodreference_particular;
 
 public class Person {
     String name;

@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.methodreference.p10_methodreference_functionalinterface;
+package com.gevernova.javaeightfeatures.methodreference.methodreference_functionalinterface;
 
 public class MathOperations {
     public static int add(int a, int b) {

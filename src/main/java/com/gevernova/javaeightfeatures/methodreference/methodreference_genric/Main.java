@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.methodreference.p5_methodreference_genric;
+package com.gevernova.javaeightfeatures.methodreference.methodreference_genric;
 
 import java.util.ArrayList;
 import java.util.List;

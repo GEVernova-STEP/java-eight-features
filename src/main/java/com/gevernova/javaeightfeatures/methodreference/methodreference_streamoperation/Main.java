@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.methodreference.p7_methodreference_streamoperation;
+package com.gevernova.javaeightfeatures.methodreference.methodreference_streamoperation;
 
 import java.util.ArrayList;
 import java.util.List;

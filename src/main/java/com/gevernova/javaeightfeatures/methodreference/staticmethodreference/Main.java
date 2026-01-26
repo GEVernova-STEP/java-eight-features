@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.methodreference.p1_staticmethodreference;
+package com.gevernova.javaeightfeatures.methodreference.staticmethodreference;
 
 import java.util.ArrayList;
 import java.util.List;

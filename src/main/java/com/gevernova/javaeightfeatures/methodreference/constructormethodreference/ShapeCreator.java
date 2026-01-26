@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.methodreference.p4_constructormethodreference;
+package com.gevernova.javaeightfeatures.methodreference.constructormethodreference;
 
 @FunctionalInterface
 interface ShapeCreator {
