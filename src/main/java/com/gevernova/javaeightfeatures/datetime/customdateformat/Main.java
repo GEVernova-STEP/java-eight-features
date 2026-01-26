@@ -1,6 +1,5 @@
-package com.gevernova.javaeightfeatures.datetime.p5_customdateformat;
+package com.gevernova.javaeightfeatures.datetime.customdateformat;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;

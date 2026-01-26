@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.datetime.p8_leapyearchecker;
+package com.gevernova.javaeightfeatures.datetime.leapyearchecker;
 
 import java.time.Year;
 

@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.datetime.p4_temporaladjusters;
+package com.gevernova.javaeightfeatures.datetime.temporaladjusters;
 
 import java.time.LocalDate;
 import java.time.temporal.TemporalAdjusters;

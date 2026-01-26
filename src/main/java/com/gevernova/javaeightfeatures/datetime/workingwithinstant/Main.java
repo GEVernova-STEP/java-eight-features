@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.datetime.p6_workingwithinstant;
+package com.gevernova.javaeightfeatures.datetime.workingwithinstant;
 
 import java.time.Duration;
 import java.time.Instant;

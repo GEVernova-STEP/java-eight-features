@@ -1,4 +1,4 @@
-package com.gevernova.javaeightfeatures.datetime.p3_zoneddatetime;
+package com.gevernova.javaeightfeatures.datetime.zoneddatetimeduration;
 
 import java.time.ZoneId;
 import java.time.ZoneOffset;
